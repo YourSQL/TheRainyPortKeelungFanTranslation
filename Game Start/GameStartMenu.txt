@@ -1,0 +1,21 @@
+#Game Menu
+
+遊戲開始
+-Game start
+Start
+
+讀取進度
+-View progress
+Save
+
+遊戲設定
+-Game setup
+Options
+
+遊戲畫廊
+-Game gallery
+Gallery
+
+離開遊戲
+-Leave the game
+Exit
