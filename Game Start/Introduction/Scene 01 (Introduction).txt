@@ -1,5 +1,12 @@
 #Introduction
 
+#Change log
+#18 Jan 15: Change log added.
+#         : MovingGamer checked the transcription and made corrections.
+#         : The literal translation was also changed due to the corrections.
+#10 Jan 15: MovingGamer finished literal translation.
+#08 Jan 15: YourSQL finished transcription of scene.
+
 老家的油桐樹下，是我們玩耍的地方。
 -Below the tung trees of the old house, was the place where we used to play.
 
@@ -33,10 +40,8 @@
 -You played the day before yesterday!
 
 李元德：
-“那是大爺我好心配合你們兩個小鬼頭，我決定今天玩抓鬼，有本是就來追我！”
+“那是大爺我好心配合你們兩個小鬼頭，我決定今天玩抓鬼，有本事就來追我！”
 -That was me being kind to you two brats, I decide we play catch today, chase me if you can!
-
-#I think it should be 本事 instead of 本是
 
 張曉瑜：
 “元德你給我站住！”
@@ -52,34 +57,28 @@
 -Xiao Yu, who was playing with us, gave chase too eagerly, and also fell on the ground.
 
 李肇維：
-“你們兩個麼事吧？”
+“你們兩個没事吧？”
 -Are you two OK?
-
-#I think it should be 没事 instead of 麼事
 
 我跨著輕飄飄的腳步趕到，隻見兩人摔的全身都是傷。
 -I hurried over while taking light footsteps, and only saw the two of them were injured all over from falling.
 
 李元德：
-“。。。。。。這下又要個歌玩醫生游戲了。。。。。。”
--… Now elder brother has to play doctor again…
-
-#I think it should be 哥哥 instead of 個歌
+“。。。。。。這下又要給歌玩醫生游戲了。。。。。。”
+-… Now we made elder brother play doctor again…
 
 張曉瑜：
-“什麼不好的，肇維以後要跟伯父一樣，成為優秀的醫生啊。”
+“有什麼不好的，肇維以後要跟伯父一樣，成為優秀的醫生啊。”
 -What’s so bad about that, Zhao Wei wants to grow up to be like father’s elder brother, an outstanding doctor.
 
-不知什麼地方轉來槍炮的聲響。
+不知什麼地方傳來槍炮的聲響。
 遠遠的，好像又近近的。
 -From somewhere came the sound of gunfire.
 -It sounded far away, but also seemed to be nearby.
 
 李元德：
-“那哥，我內藏都摔出來了，幫我縫一下。”
--Big brother, my organs have fallen out, help me sew them back in.
-
-#I think it should be 大哥 not 那哥, and 内脏 not 内藏
+“那哥，我內臟都摔出來了，幫我縫一下。”
+-Hey, big brother, my organs have fallen out, help me sew them back in.
 
 張曉瑜：
 “等等，應該先幫我把破掉的胸口補好。”
@@ -91,48 +90,42 @@
 "哎唷，你們兩個都等一下啦--"
 -Aiyo, you two wait for a moment…
 
-在忽遠忽近又響個停的槍炮聲音裡。
+在忽遠忽近又響個不停的槍炮聲音裡。
 我弄丟我的手指頭。
 -In the sound of gunfire that endlessly rang out far and near.
--I lost my finger.
-
-#Check whether it should be 響個不停 instead of 響個停
+-I lost my fingers.
 
 李肇維：
 “不管要醫誰，等我先把手指找回來再說。”
--Whoever I am curing, wait until I have found my finger then I’ll help.
+-Whoever I am curing, wait until I have found my fingers then I’ll help.
 
 父亲：
-“那麼，爸爸的手指頭借你把？”
--In that case, how about I lend you father’s finger?
+“那麼，爸爸的手指借你把？”
+-In that case, how about I lend you father’s fingers?
 
-父親遞給我是根好大的手指。
+父親遞給我十根好大好大的手指。
 上頭沾滿了黑黑的血垢。
--Father gave me a really big finger.
--It was completely stained with dark blood and dirt.
+-Father gave me ten really big fingers.
+-They were completely stained with dark blood and dirt.
 
 母親：
 “收下吧，肇維，這是你爸的心意啊。”
 -Accept it, Zhao Wei, this is what your father wants.
 
-母親站在後面，露出了不斷淌的微笑。
--Mother was standing in the back, and showed me a smile with a continuous stream of tears.
-
-#I think 不斷淌 is referring to tears, so the mother is crying while giving Zhao Wei a smile. I’m not exactly sure about this.
+母親站在後面，露出了不斷淌血的微笑。
+-Mother was standing in the back, and showed me a smile that wouldn't stop bleeding.
 
 李肇維：
-“爸。。。。。。媽。。。。。。”
--Dad … Mum …
+“爸。。。。。。媽。。。。。。?”
+-Dad… Mum…?
 
 槍炮的聲音忽遠忽近又響個不停。
 -The sound of gunfire endlessly rang out far and near.
 
-我再也問不到油桐花的香氣。
+我再也聞不到油桐花的香氣。
 以及他們聲音--
--I could never again smell the aroma of tung flowers.
--And never again hear their voices.
-
-#I think it should be 聞 instead of 問
+-I could no longer smell the aroma of tung flowers.
+-And no longer hear their voices.
 
 Year 1945 October 17th
 Wednesday
