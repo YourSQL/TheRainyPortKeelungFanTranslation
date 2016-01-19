@@ -1,6 +1,7 @@
 #Introduction
 
 #Change log
+#19 Jan 18: Airi recieved and added less literal translation. Still needs editing, less awkward grammar.
 #18 Jan 16: Change log added.
 #         : MovingGamer checked the transcription and made corrections.
 #         : The literal translation was also changed due to the corrections.
@@ -9,152 +10,214 @@
 
 老家的油桐樹下，是我們玩耍的地方。
 -Below the tung trees of the old house, was the place where we used to play.
+Below the Tung trees of the old house, lies the place where we used to play.
 
 在午後的陽光裡，油桐花的氣味下。
 我們三個總是在吵今天的游戲誰當頭。
 -In the afternoon sunlight, below the fragrance of the tung flowers.
 -We three always argued who would be the leader of our games today.
+Under the afternoon sunlight, enveloped by the fragrence of the Tung flowers.
+Between the three of us, we have always argued over whom should be the leader for our games today.
 
 李肇維：
 “我是哥哥我當頭！”
 -I am the elder brother so I’ll be the leader!
+I am the older brother so I'll be the leader!
 
 李元德：
 “才怪，昨天已經是哥當頭了，今天該換我！”
 -No way, you were leader yesterday, today it should be me!
+No way, you were leader yesterday, today should be my turn!
 
+*MovingGamer*
 #Only one 哥
 
 張曉瑜：
 “你們兩個臭男生，沒聽過女士優先嗎？”
 -You two stinky boys, haven’t you heard of ladies first?
+You stinky boys, haven't you heard of ladies first?
 
 張曉瑜：
 “今天應該由我當頭，決定該玩什麼才對啊。”
 -I should be the leader today, and decide what we should play.
+I should be the leader today, and I'll decide what we should play.
 
 李元德：
 “我才不跟女生玩家家酒！”
 -I don’t play house with girls!
 
+*MovingGamer*
 #It is 女生 instead of 女
 
 張曉瑜：
 “前天你明明就玩過！”
 -You played the day before yesterday!
+But you played the day before yesterday!
 
 李元德：
 “那是大爺我好心配合你們兩個小鬼頭，我決定今天玩抓鬼，有本事就來追我！”
 -That was me being kind to you two brats, I decide we play catch today, chase me if you can!
+That was me being kind to you two brats, I decide we play catch today, catch me if you can!
 
+*Airi*
+#This part is kind of weird. Since李元德is the younger brother, for him to call his older brother a brat is quite strange. Not sure if the original Chinese transcript was correctly copied over.
+*MovingGamer*
 #It is 本事 instead of 本是
 
 張曉瑜：
 “元德你給我站住！”
 -Yuan De, stand right there for me!
+Yuan De, get back here!
 
 李肇維：
 “不要沖那麼快啦。”
 -Don’t rush off so fast.
+Hey don't run off so fast.
 
 弟弟元德一口氣沖了出去，結果在樹根上絆了一大跤。
 跟我們一起玩的曉瑜追的太緊，也跟著跌在地上。
 -Younger brother Yuan De dashed off in a breath, and ended up falling over a tree root.
 -Xiao Yu, who was playing with us, gave chase too eagerly, and also fell on the ground.
+Yuan De dashed off in the blink of an eye, but ended up tripping over a tree root and fell on the ground.
+Xiao Yu, who was playing with us, gave chase too eagerly, and also fell on the ground.
+*Airi*
+#The above sentence can be reworded, but idk how right now.
 
 李肇維：
 “你們兩個没事吧？”
 -Are you two OK?
+Are you two OK?
 
+*MovingGamer*
 #It is 没事 instead of 麼事
 
 我跨著輕飄飄的腳步趕到，隻見兩人摔的全身都是傷。
 -I hurried over while taking light footsteps, and only saw the two of them were injured all over from falling.
+I hurred over while taking light footsteps, and only saw the two of them covered in injuries from the fall.
 
 李元德：
 “。。。。。。這下又要給歌玩醫生游戲了。。。。。。”
 -… Now we made elder brother play doctor again…
+...Now we have to play doctor for big brother again...
 
+*MovingGamer*
 #It is 給哥 instead of 個歌
 
 張曉瑜：
 “有什麼不好的，肇維以後要跟伯父一樣，成為優秀的醫生啊。”
 -What’s so bad about that, Zhao Wei wants to grow up to be like father’s elder brother, an outstanding doctor.
+What's so bad about that, Zhao Wei is going to be like your father, an outstanding doctor.
+*Airi*
+#伯父is referring to zhao wei and yuan de’s father. It is a polite way to address another person’s father.
 
+*MovingGamer*
 #It was missing 有 at the start
 
 不知什麼地方傳來槍炮的聲響。
 遠遠的，好像又近近的。
 -From somewhere came the sound of gunfire.
 -It sounded far away, but also seemed to be nearby.
+From somewhere came the sound of gunfire.
+It sounded far away, but also seemed to be nearby.
 
+*MovingGamer*
 # It is傳 instead of 轉
 
 李元德：
 “那哥，我內臟都摔出來了，幫我縫一下。”
 -Hey, big brother, my organs have fallen out, help me sew them back in.
+Hey, big bro, my organs have fallen out, help me sew them back in.
 
+*MovingGamer*
 #It is 内臟 not 内藏. It is correct to use 那哥. 
 
 張曉瑜：
 “等等，應該先幫我把破掉的胸口補好。”
 -Hold on, first you should help me fix my broken chest.
+Hold on, first you should help me fix my broken chest.
 
+*YourSQL*
 #Wait whaaaatttt... The music does not match here lol....
 
 李肇維：
 "哎唷，你們兩個都等一下啦--"
 -Aiyo, you two wait for a moment…
+Aiyo, you two wait for a moment…
+
+*Airi*
+#Umm.. considering this is for English speakers, something to replace aiyo would be best; like jesus, yikes, sigh, etc…
 
 在忽遠忽近又響個不停的槍炮聲音裡。
 我弄丟了我的手指頭。
 -In the sound of gunfire that endlessly rang out far and near.
 -I lost my fingers.
+The endless sound of gunfire rang out in the distance yet sounded close-by.
+I lost my fingers.
 
+*MovingGamer*
 #It is 響個不停 instead of 響個停
 #It is 弄丢了, the 了 was missing
 
 李肇維：
 “不管要醫誰，等我先把手指找回來再說。”
 -Whoever I am curing, wait until I have found my fingers then I’ll help.
+Whoever I am curing wait until I have found my fingers first, then we'll talk.
 
 父亲：
 “那麼，爸爸的手指借你把？”
 -In that case, how about I lend you father’s fingers?
+In that case, how about I lend you father’s fingers?
 
+*MovingGamer*
 #There is no 頭
 
 父親遞給我十根好大好大的手指。
 上頭沾滿了黑黑的血垢。
 -Father gave me ten really big fingers.
 -They were completely stained with dark blood and dirt.
+Father gave me ten really big fingers..
+They were completely stained with darkened blood.
 
+*Airi*
+#There is no dirt, just blood.
+*MovingGamer*
 #It is 十 instead of 是
 #It is 好大好大 instead of 好大
 
 母親：
 “收下吧，肇維，這是你爸的心意啊。”
 -Accept it, Zhao Wei, this is what your father wants.
+Accept it, Zhao Wei, this is what your father wants.
 
 母親站在後面，露出了不斷淌血的微笑。
 -Mother was standing in the back, and showed me a smile that wouldn't stop bleeding.
+Mother was standing in the back, on her face was a smile that wouldn't stop bleeding.
 
+*MovingGamer*
 #It is不斷淌血, The 血 was missing.
 
 李肇維：
 “爸。。。。。。媽。。。。。。?”
 -Dad… Mum…?
+Dad… Mum…?
 
+*YourSQL*
+#Should we go for American or British English?
+*MovingGamer*
 #It was missing the question mark at the end
 
 槍炮的聲音忽遠忽近又響個不停。
 -The sound of gunfire endlessly rang out far and near.
+The endless sound of gunfire, once again rang out in the distance yet sounded close-by.
 
 我再也聞不到油桐花的香氣。
 以及他們聲音--
 -I could no longer smell the aroma of tung flowers.
 -And no longer hear their voices.
+I could no longer smell the aroma of Tung flowers.
+And I no longer hear their voices.
 
+*MovingGamer*
 #It is 聞 instead of 問
 
 Year 1945 October 17th
