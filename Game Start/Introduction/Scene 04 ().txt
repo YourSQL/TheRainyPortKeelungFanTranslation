@@ -1,0 +1,116 @@
+#Change log
+#23 Jan 16: MovingGamer finished literal translation
+#22 Jan 16: MovingGamer finished transcription in Simplified and Traditional script
+#         : MovingGamer started literal translation
+#19 Jan 16: MovingGamer started transcription
+
+#简体 version
+
+街上的气氛不比寻常。
+有种热闹，有种期待，有种迷惘。
+- The atmosphere on the street is not the same as usual.
+- It is kind of lively, kind of expectant, and kind of aimless.
+
+不过跟过去最大的差别是，平时处处可见的红白太阳旗，全都变成了红蓝白的三色太阳旗。
+- But the biggest difference to the past is that the normally ubiquitous red and white sun flags have all become red, blue and white sun flags.
+
+旗帜混着到处张贴的“欢迎”、“庆贺”等标语，混着还没撕的春联，把街上染了红艳艳的喜气，好像提早过年似。
+- Everywhere there are banners with phrases such as “Welcome” and “Celebrate”, and there are still unremoved New Year scrolls, giving the street a red joyous atmosphere, as if New Year has come early.
+
+黄老伯：
+啊，这不是肇维吗？恭喜、恭喜！
+- Ah, isn’t this Zhao Wei? Congratulations, congratulations!
+
+黄伯在路口对我恭喜。
+- At the street intersection, Uncle Huang congratulates me.
+
+李肇维：
+黄伯你也恭喜恭喜。。。。。。不过我们这是在恭喜什么事情？难道真的提早过年吗？
+- Congratulations to you too, Uncle Huang… But what are we celebrating? Has New Year really come early?
+
+黄老伯：
+不--是！是那个什么。。。。。。国民政府要来接管台湾啦！有什么比这件事更值得恭喜的吗？
+- No--Yes! It’s that thing… the National Government is coming to take over Taiwan! What could be more worth celebrating than this?
+
+李肇维：
+呃。。。。。。政治的事情我不是很懂。
+- Eh… I’m not very familiar with political matters.
+
+黄老伯：
+哎呀，年轻人怎么可以不懂政治！
+- Aiya, how can young people be unfamiliar with politics!
+
+黄伯开始说起，日本统治时，他的杂货店遇到了多惨多糟多可恶的事。
+- Uncle Huang begins talking about the tragic, terrible, vile things that happened to his grocery shop during the Japanese governance.
+
+像是货品全被当成军品征收。
+家人也被征召拉去战场，再也没有回来。
+- Such as stock being seized for military supplies.
+- And forced conscription of family members, who were sent to fight and never returned home.
+
+听起来就跟弟弟平时跟我讲的，日本人好坏超坏有够坏的说法没有两样，只是黄伯的故事更直接，也更混乱。
+- It sounds exactly like what my younger brother usually tells me, that the Japanese are really evil, extremely evil, couldn’t be more evil, except Uncle Huang’s story is more direct and confusing.
+
+听见黄伯对我开讲，附近的邻居也一样跟上，开始说着日本人的坏话。
+- Hearing Uncle Huang talking to me, nearby neighbours also join in and start saying malicious things about the Japanese.
+
+黄老伯：
+所以啦，肇维，国民政府来接管啦，终于是我们自己人管自己人啦！大家恭喜！恭喜恭喜啊！
+- That’s why, Zhao Wei, with the National Government coming to take over, we are finally going to be taken care of by our own people! Congratulations, everyone! Congratulations, congratulations!
+
+强挂着笑脸跟大家随便恭喜过后，我赶紧离开现场。
+- After congratulating everyone with a forced smile on my face, I hurry away from the scene.
+
+就算已经在工作，但是不久前，我还是个不知世事的学生。
+- Although I am working, not too long ago I was a naïve student.
+
+国民政府也好，日本皇军也罢。我什么都不打算知道。
+- The National Government arrives, the Japanese imperial army goes. I don’t care to know about any of it.
+
+#End scene
+
+#繁体 version
+
+街上的氣氛不比尋常。
+有種熱閙，有種期待，有種迷惘。
+
+不過跟過去最大的差别是，平時處處可見的紅白太陽旗，全都變成了紅藍白的三色太陽旗。
+
+旗幟混著到處張貼的“歡迎”、“慶贺”等標語，混著還没撕的春聯，把街上染了紅艷艷的喜氣，好像提早過年似。
+
+黄老伯：
+啊，這不是肇維吗？恭喜、恭喜！
+
+黄伯在路口對我恭喜。
+
+李肇维：
+黄伯你也恭喜恭喜。。。。。。不過我們這是在恭喜什麼事情？難道真的提早過年吗？
+
+黄老伯：
+不--是！是那個什麼。。。。。。國民政府要來接管台灣啦！有什麼比这件事更值得恭喜的嗎？
+
+李肇维：
+呃。。。。。。政治的事情我不是很懂。
+
+黄老伯：
+哎呀，年輕人怎麼可以不懂政治！
+
+黄伯開始説起，日本統治时，他的雜貨店遇到了多惨多糟多可惡的事。
+
+像是貨品全被當成軍品徵收。
+家人也被徵召拉去戰場，再也没有回来。
+
+聽起来就跟弟弟平時跟我講的，日本人好壞超壞有夠壞的説法没有兩樣，只是黄伯的故事更直接，也更混亂。
+
+聽見黄伯对我開講，附近的鄰居也一样跟上，開始说著日本人的壞話。
+
+黄老伯：
+所以啦，肇維，國民政府來接管啦，終於是我們自己人管自己人啦！大家恭喜！恭喜恭喜啊！
+
+強掛着笑臉跟大家随便恭喜過後，我趕緊離開現場。
+
+就算已經在工作，但是不久前，我還是個不知世事的學生。
+
+國民政府也好，日本皇军也罷。我什麼都不打算知道。
+
+#End Scene
