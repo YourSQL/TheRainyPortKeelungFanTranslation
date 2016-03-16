@@ -5,34 +5,51 @@
 #March 8： YourSQL Transcription Resumed
 #March 8： YourSQL Transcription Finished
 #March 8: YourSQL Translation Started
+#March 16: YourSQL Rough Translation Finished. Refining needed.
 
 有刺鼻气味。
+-There's an irratating smell.
 枪炮？不，是鞭炮的气味。
+-Firearms? No, it's the smell of fireworks.
 
 外头不知为何，正乒乒砰砰地放鞭炮。
-吵的这间常总是很安静的公y寓里，也沾上了那股热闹。
+-I did not know the reason for the pinging and popping of fireworks outside.
+吵的这间常总是很安静的公寓里，也沾上了那股热闹。
+- Constantly and consistantly noisy, usually quiet apartments inside were flooded with noise.
 
 李肇維：
 到底是在闹什么啊。。。。。。？
+-Why is it so loud?
 
 我不喜欢这个声音跟味道，总觉得会想起一些不好的东西，
+-I don't like this sound and smell, as it reminds me of some unpleasent memories,
 比如说做了某种开朗又奇怪的恶梦之类的事情。
+-as if some kind of bright strange nightmare and such.
 
 打开窗户，迎面而来的阳光告诉我，今天睡的比平常晚了点，
+-Opening the window, the light on my face tells me, today I slept in quite a bit,
 不过还在容许范围内。
+-but I shouldn't be too late.
 
 茶行提供的薪水不是很多，为了定期缴纳房组不拖欠，
+-The tea line job salary isn't much, but it helps pay for rent,
 每天都是我们兄弟俩的工作日。
+-everyday is our work day.
 
 李肇維：
 起床喽，元德--
+-Got up, it seems--
 
 弟弟的棉被是空的。
+-Little brother's bed is empty.
 
 这傢伙平常总是三踢四打都不醒，今天房热连棉被都没收就
+-This guy usually gets up around 3 to 4, today he got up without making
 出门去?这是吹了什么风？还是出了我不知道的大事情？
+-his bed? Is there some strange wind? Or does he have some big event?
 
 李肇維：
 总之得先把棉被收好，不热房东看见又要唸人了。
+-At least make your bed first, if the landlord sees this we'll get scolded.
 
 #End Scene
